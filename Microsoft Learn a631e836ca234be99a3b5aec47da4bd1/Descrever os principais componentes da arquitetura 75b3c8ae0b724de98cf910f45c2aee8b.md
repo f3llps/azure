@@ -1,0 +1,1 @@
+# Descrever os principais componentes da arquitetura do Azure
